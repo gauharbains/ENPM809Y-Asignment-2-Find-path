@@ -11,7 +11,7 @@ Positions are identified by (x; y) coordinates as shown below.
 <img width="162" alt="Capture" src="https://user-images.githubusercontent.com/48079888/77237446-ad04d000-6b9e-11ea-83e9-53cdfef8e250.PNG">
 
 ## Doxygen 
-The code has been documented using Doxygen. 
+The code has been documented using Doxygen. The documentation can be obtained running Doxygen in the directory containing the doxyfile.
 
 
 
